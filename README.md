@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Damien
+# 👋 Hi, Name's D, but my friends call me Damien
 
 💻 IT Professional transitioning into Penetration Testing  
 🎯 Focus: Active Directory & Internal Network Exploitation  
