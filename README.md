@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Damien
 
-<!--
-**DamienT1990/DamienT1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 IT Professional transitioning into Penetration Testing  
+🎯 Focus: Active Directory & Internal Network Exploitation  
+🔐 Currently building a realistic AD lab environment  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Current Focus
+- Active Directory Attacks
+- Kerberoasting
+- Lateral Movement
+- Privilege Escalation
+- BloodHound Analysis
+
+---
+
+## 🛠 Lab Environment
+- Windows Server 2022 (Domain Controller)
+- Windows 10 Clients
+- Kali Linux (Attacker)
+- Hyper-V
+
+---
+
+## 📂 Projects
+🔹 Active Directory Lab (In Progress)  
+🔹 Internal Pentest Notes  
+🔹 Custom Enumeration Scripts  
+
+---
+
+## 📫 Contact
+LinkedIn:
