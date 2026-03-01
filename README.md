@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Damien
+#  Hi, I'm Damien
 
-💻 IT Professional transitioning into Penetration Testing  
-🎯 Focus: Active Directory & Internal Network Exploitation  
-🔐 Currently building a realistic AD lab environment  
+ IT Professional transitioning into Penetration Testing  
+ Focus: Active Directory & Internal Network Exploitation  
+ Building a structured Active Directory attack methodology in a controlled lab environment.  
 
 ---
 
-## 🧠 Current Focus
+## Current Focus
 - Active Directory Attacks
 - Kerberoasting
 - Lateral Movement
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠 Lab Environment
+## Lab Environment
 - Windows Server 2022 (Domain Controller)
 - Windows 10 Clients
 - Kali Linux (Attacker)
@@ -23,12 +23,12 @@
 
 ---
 
-## 📂 Projects
+## Projects
 🔹 Active Directory Lab (In Progress)  
 🔹 Internal Pentest Notes  
 🔹 Custom Enumeration Scripts  
 
 ---
 
-## 📫 Contact
+## Contact
 LinkedIn:
