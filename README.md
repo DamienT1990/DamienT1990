@@ -24,9 +24,9 @@
 ---
 
 ## Projects
-🔹 Active Directory Lab (In Progress)  
-🔹 Internal Pentest Notes  
-🔹 Custom Enumeration Scripts  
+🔹 Enterprise AD Lab – Hyper-V Deployment  
+🔹 AD Enumeration & Attack Path Mapping  
+🔹 Custom Recon & Automation Scripts (Python/Bash)  
 
 ---
 
